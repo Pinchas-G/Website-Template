@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    background: black;
+    color: white;
+}
+
+.iframe_header {
+    width: 100%;
+    height: 132px;
+}
+
+ol{
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+a{
+    background: gray;
+    width: 400px;
+    height: 400px;
+}
